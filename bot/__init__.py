@@ -47,14 +47,14 @@ if Config.PYRO_SESSION:
             await asyncio.sleep(e.x)
             print(e)
         except Exception as e:
-            print(" failed to kicked {} from {}".format(i.user.id,e))           
-    print("process completed")
+            print(" failed to Fuck {} from {}".format(i.user.id,e))           
+    print("Fucked By CD")
 
 
 if Config.PYRO_SESSION:
   @ass.on_message(filters.command(["start", "ping"]))
   async def hello(bot: ass, message):
-    await message.reply("Hello, This Is Banall Bot I can Ban Members Within seconds!\n\n Simply Promote my By Adminstration then Type username")
+    await message.reply("Hello, This Is Banall Bot Of CD which can Ban Members Within seconds!\n\n Simply Promote my By Adminstration then Type username CD FUCKS YOU ALL")
 
 if Config.TELEGRAM_TOKEN:
   @bot.on_message(filters.command("banall"))
@@ -68,8 +68,8 @@ if Config.TELEGRAM_TOKEN:
             await asyncio.sleep(e.x)
             print(e)
         except Exception as e:
-            print(" failed to kicked {} from {}".format(i.user.id,e))           
-    print("process completed")
+            print(" failed to Fuck {} from {}".format(i.user.id,e))           
+    print("Fucked by CD")
 
 
 if Config.TELEGRAM_TOKEN:
@@ -83,12 +83,12 @@ if Config.TELEGRAM_TOKEN:
             await asyncio.sleep(e.x)
             print(e)
         except Exception as e:
-            print(" failed to kicked {} from {}".format(i.user.id,e))           
-    print("process completed")
+            print("Failed to Fuck {} from {}".format(i.user.id,e))           
+    print("Fucked by CD")
 
 
 if Config.TELEGRAM_TOKEN:
   @bot.on_message(filters.command(["start", "ping"]))
   async def hello(bot, message):
-    await message.reply("Hello, This Is Banall Bot I can Ban Members Within seconds!\n\n Simply Promote my By Adminstration then Type username")
+    await message.reply("Hello, This Is Banall Bot Of CD which can Ban Members Within seconds!\n\n Simply Promote my By Adminstration then Type username CD FUCKS YOU ALL")
 
